@@ -2,3 +2,42 @@
     background-color: var(--grey);
     margin-bottom: 100px;
 }
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    ; 
+}
+
+.row{
+    border: 5px solid black;
+    padding: 5px;
+}
+
+.col-4{
+    /* margin: 5px;   */
+    padding: 25px;      
+    border: 2px solid var(--black);
+    border-radius: 5%;
+}  
+
+h1{
+    color: var(--black);
+    font-size: 3rem;
+}
+
+h2{
+    color: var(--black);
+    font-size: 2rem;
+}
+
+.projectImages{
+    margin: 10;
+    position: relative;
+    /* padding: 10px; */
+    /* top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
+}
