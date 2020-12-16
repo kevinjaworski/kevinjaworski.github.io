@@ -1,0 +1,16 @@
+.display-4{
+        font-weight: 700;
+        color: black;
+}
+
+.lead {
+    font-weight: 700;
+}
+
+.jumbotron{
+    height: 100vh; 
+    background-image: url("../assets/ryo-yoshitake-rD28m9BmXVs-unsplash.jpg");
+    background-position: 50% 95%;
+    
+}
+/* pexel, unsplash for royalty free images */
