@@ -1,0 +1,23 @@
+
+
+#footer1{
+    position: relative;
+    top: 5px;
+    float: left;
+    margin: 15px;
+}
+
+#footer3{
+    position: relative;
+    top: 5px;
+    left: 375px;
+    float: left;
+    margin: 15px; 
+}
+
+#socials{
+    position: relative;
+    top: 5px;
+    float: right;
+    margin: 15px;
+}
