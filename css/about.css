@@ -1,4 +1,11 @@
 #about{
-    background-color: var(--grey);
+    background-image: url("../assets/mike-enerio-tmqsL3BmZ80-unsplash.jpg");
+    background-size: 100vw;
+    background-position: 10% 15%;
+    background-attachment: fixed;
     margin-bottom: 30px;
+}
+
+.container{
+    background-color: var(--grey_c);
 }

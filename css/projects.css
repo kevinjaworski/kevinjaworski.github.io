@@ -1,5 +1,8 @@
 #projects{
-    background-color: var(--grey);
+    background-image: url("../assets/pexels-francesco-ungaro-96422.jpg");
+    background-size: 100vw;
+    background-position: 10% 15%;
+    background-attachment: fixed;
     margin-bottom: 100px;
 }
 
@@ -14,6 +17,7 @@ img{
 
 .row{
     /* border: 5px solid black; */
+    
     padding: 5px;
 }
 
@@ -33,11 +37,14 @@ h2{
     font-size: 2rem;
 }
 
+#projectContainer{
+    height: 400px;
+}
+
 .projectImages{
-    margin: 10;
     position: absolute;
-    padding: 10px;
-    top: 270px;
+    padding: 0px;
+    top: 220px;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
